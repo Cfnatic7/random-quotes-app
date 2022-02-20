@@ -1,0 +1,11 @@
+h1 {
+    font-family: 'Dancing Script', cursive;
+    position: absolute;
+    left: 1%;
+    padding:1%;
+}
+.icon {
+    position: absolute;
+    padding: 1%;
+    right: 1%;
+}
