@@ -14,7 +14,7 @@ const Slice = createSlice({
 
 export default configureStore({
   reducer: {
-    getNewQuote: Slice
+    getNewQuote: Slice.reducer
   }
 })
 

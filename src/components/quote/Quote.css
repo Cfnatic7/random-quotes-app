@@ -1,0 +1,15 @@
+.container {
+    border-radius: 3%;
+    background-color: white;
+}
+a {
+    text-decoration: none !important;
+    font-family: Helvetica, Arial, sans-serif;
+}
+h1 {
+    font-family: 'Courgette', cursive;
+}
+h3 {
+    text-align: right;
+    font-family: 'Courgette', cursive;
+}
