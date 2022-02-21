@@ -1,9 +1,11 @@
 header {
     background-color: black;
+    z-index: 1;
 }
 
 h2 {
     font-family: 'Dancing Script', cursive;
     text-align: left;
     color: white;
+    margin-left: 1%;
 }

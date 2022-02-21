@@ -1,7 +1,7 @@
 import './Header.css'
 
 const Header = () => {
-    return (<header className = 'container-fluid Success'>
+    return (<header className = 'position-fixed w-100'>
                 <h2>Quote machine</h2>
             </header>);
 }
