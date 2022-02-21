@@ -20,8 +20,8 @@ export default class Header extends Component {
         })
     }
     render() {
-        return (<header className = 'container-fluid'>
-            <h2>Quote machine</h2>
+        return (<header className = 'container-fluid Success'>
+                <h2>Quote machine</h2>
         </header>)
     }
 }
